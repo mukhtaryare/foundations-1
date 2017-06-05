@@ -1,2 +1,5 @@
 # foundations
-Code for Lede Program 2017 Foundations class
+
+- Marcel Pauly
+- Lede Program 2017
+- Homework and stuff for foundations
