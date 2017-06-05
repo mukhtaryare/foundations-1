@@ -1,4 +1,4 @@
-# foundations
+# Foundations
 
 - Marcel Pauly
 - Lede Program 2017
