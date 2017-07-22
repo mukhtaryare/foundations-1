@@ -1,0 +1,2 @@
+# Mo-Fr 6 am - 9 pm (UTC -> CEST)
+*/3 4-19 * * 1-5 python3 ~/party_donations/party_donations.py
